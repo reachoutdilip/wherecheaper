@@ -1,0 +1,533 @@
+{
+  "_help": "Product list. Products with source type apple, samsung or google are refreshed from the official store by `npm run update-prices`; 'manual' products keep the prices typed here. usPrice is the rough US price, used to tell the product's price apart from accessories and offers on the same page. See README.md.",
+  "products": [
+    {
+      "id": "iphone-18-pro",
+      "category": "Phones",
+      "brand": "Apple",
+      "name": "iPhone 18 Pro",
+      "source": {
+        "type": "apple",
+        "page": "buy-iphone/iphone-18-pro",
+        "usPrice": 1199,
+        "match": "iPhone 18 Pro"
+      },
+      "notes": {
+        "US": [
+          "SIM-free price",
+          "eSIM only"
+        ],
+        "CA": [
+          "eSIM only"
+        ],
+        "JP": [
+          "eSIM only",
+          "Shutter sound always on"
+        ],
+        "AE": [
+          "eSIM only"
+        ],
+        "CN": [
+          "Dual physical SIM"
+        ]
+      }
+    },
+    {
+      "id": "iphone-18-pro-max",
+      "category": "Phones",
+      "brand": "Apple",
+      "name": "iPhone 18 Pro Max",
+      "source": {
+        "type": "apple",
+        "page": "buy-iphone/iphone-18-pro",
+        "match": "iPhone 18 Pro Max",
+        "usPrice": 1299
+      },
+      "notes": {
+        "US": [
+          "SIM-free price",
+          "eSIM only"
+        ],
+        "CA": [
+          "eSIM only"
+        ],
+        "JP": [
+          "eSIM only",
+          "Shutter sound always on"
+        ],
+        "AE": [
+          "eSIM only"
+        ],
+        "CN": [
+          "Dual physical SIM"
+        ]
+      }
+    },
+    {
+      "id": "iphone-duo",
+      "category": "Phones",
+      "brand": "Apple",
+      "name": "iPhone Duo",
+      "source": {
+        "type": "apple",
+        "page": "buy-iphone/iphone-duo",
+        "usPrice": 1999
+      },
+      "notes": {
+        "JP": [
+          "Shutter sound always on"
+        ],
+        "US": [
+          "SIM-free price"
+        ]
+      }
+    },
+    {
+      "id": "iphone-air",
+      "category": "Phones",
+      "brand": "Apple",
+      "name": "iPhone Air",
+      "source": {
+        "type": "apple",
+        "page": "buy-iphone/iphone-air",
+        "usPrice": 1099
+      },
+      "notes": {
+        "JP": [
+          "Shutter sound always on"
+        ],
+        "US": [
+          "SIM-free price"
+        ]
+      }
+    },
+    {
+      "id": "iphone-17",
+      "category": "Phones",
+      "brand": "Apple",
+      "name": "iPhone 17",
+      "source": {
+        "type": "apple",
+        "page": "buy-iphone/iphone-17",
+        "usPrice": 899
+      },
+      "notes": {
+        "US": [
+          "SIM-free price",
+          "eSIM only"
+        ],
+        "CA": [
+          "eSIM only"
+        ],
+        "JP": [
+          "eSIM only",
+          "Shutter sound always on"
+        ],
+        "AE": [
+          "eSIM only"
+        ],
+        "CN": [
+          "Dual physical SIM"
+        ]
+      }
+    },
+    {
+      "id": "iphone-17e",
+      "category": "Phones",
+      "brand": "Apple",
+      "name": "iPhone 17e",
+      "source": {
+        "type": "apple",
+        "page": "buy-iphone/iphone-17e",
+        "usPrice": 699
+      },
+      "notes": {
+        "JP": [
+          "Shutter sound always on"
+        ],
+        "US": [
+          "SIM-free price"
+        ]
+      }
+    },
+    {
+      "id": "galaxy-s26-ultra",
+      "category": "Phones",
+      "brand": "Samsung",
+      "name": "Galaxy S26 Ultra",
+      "source": {
+        "type": "samsung",
+        "page": "smartphones/galaxy-s26-ultra/buy/",
+        "usPrice": 1349.99
+      },
+      "notes": {
+        "CN": [
+          "Chinese software, no Google apps"
+        ]
+      }
+    },
+    {
+      "id": "galaxy-s26",
+      "category": "Phones",
+      "brand": "Samsung",
+      "name": "Galaxy S26",
+      "source": {
+        "type": "samsung",
+        "page": "smartphones/galaxy-s26/buy/",
+        "usPrice": 699.99,
+        "match": "Galaxy S26"
+      },
+      "notes": {
+        "CN": [
+          "Chinese software, no Google apps"
+        ]
+      }
+    },
+    {
+      "id": "galaxy-s26-plus",
+      "category": "Phones",
+      "brand": "Samsung",
+      "name": "Galaxy S26+",
+      "source": {
+        "type": "samsung",
+        "page": "smartphones/galaxy-s26/buy/",
+        "match": "Galaxy S26\\+",
+        "usPrice": 999.99
+      },
+      "notes": {
+        "CN": [
+          "Chinese software, no Google apps"
+        ]
+      }
+    },
+    {
+      "id": "galaxy-z-fold8",
+      "category": "Phones",
+      "brand": "Samsung",
+      "name": "Galaxy Z Fold8",
+      "source": {
+        "type": "samsung",
+        "page": "smartphones/galaxy-z-fold8/buy/",
+        "usPrice": 1699.99
+      },
+      "notes": {
+        "CN": [
+          "Chinese software, no Google apps"
+        ]
+      }
+    },
+    {
+      "id": "galaxy-z-flip8",
+      "category": "Phones",
+      "brand": "Samsung",
+      "name": "Galaxy Z Flip8",
+      "source": {
+        "type": "samsung",
+        "page": "smartphones/galaxy-z-flip8/buy/",
+        "usPrice": 1249.99
+      },
+      "notes": {
+        "CN": [
+          "Chinese software, no Google apps"
+        ]
+      }
+    },
+    {
+      "id": "pixel-11-pro",
+      "category": "Phones",
+      "brand": "Google",
+      "name": "Pixel 11 Pro",
+      "source": {
+        "type": "google",
+        "page": "pixel_11_pro",
+        "usPrice": 1099
+      },
+      "notes": {
+        "JP": [
+          "Shutter sound always on"
+        ]
+      }
+    },
+    {
+      "id": "pixel-11",
+      "category": "Phones",
+      "brand": "Google",
+      "name": "Pixel 11",
+      "source": {
+        "type": "google",
+        "page": "pixel_11",
+        "usPrice": 899
+      },
+      "notes": {
+        "JP": [
+          "Shutter sound always on"
+        ]
+      }
+    },
+    {
+      "id": "pixel-11-pro-fold",
+      "category": "Phones",
+      "brand": "Google",
+      "name": "Pixel 11 Pro Fold",
+      "source": {
+        "type": "google",
+        "page": "pixel_11_pro_fold",
+        "usPrice": 1899
+      },
+      "notes": {
+        "JP": [
+          "Shutter sound always on"
+        ]
+      }
+    },
+    {
+      "id": "pixel-10a",
+      "category": "Phones",
+      "brand": "Google",
+      "name": "Pixel 10a",
+      "source": {
+        "type": "google",
+        "page": "pixel_10a",
+        "usPrice": 599
+      },
+      "notes": {
+        "JP": [
+          "Shutter sound always on"
+        ]
+      }
+    },
+    {
+      "id": "macbook-air",
+      "category": "Laptops",
+      "brand": "Apple",
+      "name": "MacBook Air",
+      "spec": "Base model",
+      "source": {
+        "type": "apple",
+        "page": "buy-mac/macbook-air",
+        "usPrice": 1299
+      },
+      "notes": {
+        "DE": [
+          "German keyboard"
+        ],
+        "JP": [
+          "JIS keyboard by default"
+        ],
+        "KR": [
+          "Korean keyboard"
+        ],
+        "CN": [
+          "Chinese keyboard"
+        ]
+      }
+    },
+    {
+      "id": "macbook-pro",
+      "category": "Laptops",
+      "brand": "Apple",
+      "name": "MacBook Pro",
+      "spec": "Base model",
+      "source": {
+        "type": "apple",
+        "page": "buy-mac/macbook-pro",
+        "usPrice": 1999
+      },
+      "notes": {
+        "DE": [
+          "German keyboard",
+          "No charger in box"
+        ],
+        "UK": [
+          "No charger in box"
+        ],
+        "JP": [
+          "JIS keyboard by default"
+        ],
+        "KR": [
+          "Korean keyboard"
+        ],
+        "CN": [
+          "Chinese keyboard"
+        ]
+      }
+    },
+    {
+      "id": "ipad",
+      "category": "Tablets",
+      "brand": "Apple",
+      "name": "iPad",
+      "spec": "Wi-Fi",
+      "source": {
+        "type": "apple",
+        "page": "buy-ipad/ipad",
+        "usPrice": 449,
+        "match": "iPad Wi.Fi"
+      },
+      "notes": {}
+    },
+    {
+      "id": "ipad-mini",
+      "category": "Tablets",
+      "brand": "Apple",
+      "name": "iPad mini",
+      "spec": "Wi-Fi",
+      "source": {
+        "type": "apple",
+        "page": "buy-ipad/ipad-mini",
+        "usPrice": 699,
+        "match": "iPad mini Wi.Fi"
+      },
+      "notes": {}
+    },
+    {
+      "id": "ipad-air",
+      "category": "Tablets",
+      "brand": "Apple",
+      "name": "iPad Air 11\"",
+      "spec": "Wi-Fi",
+      "source": {
+        "type": "apple",
+        "page": "buy-ipad/ipad-air",
+        "usPrice": 749,
+        "match": "11-inch iPad Air Wi.Fi"
+      },
+      "notes": {}
+    },
+    {
+      "id": "ipad-pro",
+      "category": "Tablets",
+      "brand": "Apple",
+      "name": "iPad Pro 11\"",
+      "spec": "Wi-Fi, standard glass",
+      "source": {
+        "type": "apple",
+        "page": "buy-ipad/ipad-pro",
+        "usPrice": 1199,
+        "match": "11-inch iPad Pro Wi.Fi"
+      },
+      "notes": {}
+    },
+    {
+      "id": "ipad-pro-13",
+      "category": "Tablets",
+      "brand": "Apple",
+      "name": "iPad Pro 13\"",
+      "spec": "Wi-Fi, standard glass",
+      "source": {
+        "type": "apple",
+        "page": "buy-ipad/ipad-pro",
+        "match": "13-inch iPad Pro Wi.Fi",
+        "usPrice": 1499
+      },
+      "notes": {}
+    },
+    {
+      "id": "galaxy-tab-s12",
+      "category": "Tablets",
+      "brand": "Samsung",
+      "name": "Galaxy Tab S12",
+      "spec": "Wi-Fi",
+      "source": {
+        "type": "samsung",
+        "page": "tablets/galaxy-tab-s12/buy/",
+        "usPrice": 1399.99
+      },
+      "notes": {}
+    },
+    {
+      "id": "airpods-pro-3",
+      "category": "Headphones",
+      "brand": "Apple",
+      "name": "AirPods Pro 3",
+      "spec": "In-ear, noise cancelling",
+      "source": {
+        "type": "apple",
+        "list": "accessories/all/headphones-speakers",
+        "name": "AirPods Pro 3",
+        "usPrice": 249
+      },
+      "notes": {}
+    },
+    {
+      "id": "airpods-5",
+      "category": "Headphones",
+      "brand": "Apple",
+      "name": "AirPods 5",
+      "spec": "Earbuds",
+      "source": {
+        "type": "apple",
+        "list": "accessories/all/headphones-speakers",
+        "name": "AirPods 5",
+        "usPrice": 129
+      },
+      "notes": {}
+    },
+    {
+      "id": "airpods-max-2",
+      "category": "Headphones",
+      "brand": "Apple",
+      "name": "AirPods Max 2",
+      "spec": "Over-ear, noise cancelling",
+      "source": {
+        "type": "apple",
+        "list": "accessories/all/headphones-speakers",
+        "name": "AirPods Max 2",
+        "usPrice": 549
+      },
+      "notes": {}
+    },
+    {
+      "id": "galaxy-buds4-pro",
+      "category": "Headphones",
+      "brand": "Samsung",
+      "name": "Galaxy Buds4 Pro",
+      "spec": "In-ear, noise cancelling",
+      "source": {
+        "type": "samsung",
+        "page": "audio-sound/galaxy-buds4-pro/buy/",
+        "usPrice": 249.99
+      },
+      "notes": {}
+    },
+    {
+      "id": "pixel-buds-pro-2",
+      "category": "Headphones",
+      "brand": "Google",
+      "name": "Pixel Buds Pro 2",
+      "spec": "In-ear, noise cancelling",
+      "source": {
+        "type": "google",
+        "page": "pixel_buds_pro_2",
+        "usPrice": 229
+      },
+      "notes": {}
+    },
+    {
+      "id": "sony-wh-1000xm6",
+      "category": "Headphones",
+      "brand": "Sony",
+      "name": "Sony WH-1000XM6",
+      "spec": "Over-ear ANC · launch price",
+      "source": {
+        "type": "manual",
+        "checkedAt": "2025-05-15"
+      },
+      "notes": {},
+      "prices": {
+        "US": 449.99,
+        "CA": 629.99,
+        "UK": 399,
+        "DE": 449,
+        "IN": 39990,
+        "AE": 1699,
+        "SG": 649,
+        "JP": 59400,
+        "KR": 599000,
+        "CN": 2999,
+        "HK": 3499,
+        "AU": 699.95
+      }
+    }
+  ]
+}

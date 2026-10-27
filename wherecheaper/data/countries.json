@@ -1,0 +1,14 @@
+{
+  "US": { "name": "United States", "currency": "USD", "symbol": "$", "salesTax": 0.075, "touristRefund": 0 },
+  "CA": { "name": "Canada", "currency": "CAD", "symbol": "C$", "salesTax": 0.13, "touristRefund": 0 },
+  "UK": { "name": "United Kingdom", "currency": "GBP", "symbol": "£", "salesTax": 0, "touristRefund": 0 },
+  "DE": { "name": "Germany", "currency": "EUR", "symbol": "€", "salesTax": 0, "touristRefund": 0.12 },
+  "IN": { "name": "India", "currency": "INR", "symbol": "₹", "salesTax": 0, "touristRefund": 0 },
+  "AE": { "name": "UAE", "currency": "AED", "symbol": "AED ", "salesTax": 0, "touristRefund": 0.038 },
+  "SG": { "name": "Singapore", "currency": "SGD", "symbol": "S$", "salesTax": 0, "touristRefund": 0.065 },
+  "JP": { "name": "Japan", "currency": "JPY", "symbol": "¥", "salesTax": 0, "touristRefund": 0.091 },
+  "KR": { "name": "South Korea", "currency": "KRW", "symbol": "₩", "salesTax": 0, "touristRefund": 0.07 },
+  "CN": { "name": "China", "currency": "CNY", "symbol": "CN¥", "salesTax": 0, "touristRefund": 0.09 },
+  "HK": { "name": "Hong Kong", "currency": "HKD", "symbol": "HK$", "salesTax": 0, "touristRefund": 0 },
+  "AU": { "name": "Australia", "currency": "AUD", "symbol": "A$", "salesTax": 0, "touristRefund": 0.091 }
+}
