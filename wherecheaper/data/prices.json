@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:28:44.109Z",
+  "generatedAt": "2026-11-26T04:24:28.204Z",
   "products": {
     "iphone-18-pro": {
       "CA": {
@@ -11,67 +11,7 @@
           "2TB": 3549
         },
         "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "US": {
-        "amount": 1199,
-        "variants": {
-          "256GB": 1199,
-          "512GB": 1399,
-          "1TB": 1799,
-          "2TB": 2399
-        },
-        "url": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "UK": {
-        "amount": 1199,
-        "variants": {
-          "256GB": 1199,
-          "512GB": 1399,
-          "1TB": 1799,
-          "2TB": 2399
-        },
-        "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "IN": {
-        "amount": 164900,
-        "variants": {
-          "256GB": 164900,
-          "512GB": 189900,
-          "1TB": 239900,
-          "2TB": 314900
-        },
-        "url": "https://www.apple.com/in/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "AE": {
-        "amount": 5099,
-        "variants": {
-          "256GB": 5099,
-          "512GB": 5949,
-          "1TB": 7649,
-          "2TB": 10199
-        },
-        "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "KR": {
-        "amount": 1990000,
-        "variants": {
-          "256GB": 1990000,
-          "512GB": 2290000,
-          "1TB": 2890000,
-          "2TB": 3790000
-        },
-        "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
@@ -83,19 +23,31 @@
           "2TB": 2949
         },
         "url": "https://www.apple.com/de/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "JP": {
-        "amount": 219800,
+      "UK": {
+        "amount": 1199,
         "variants": {
-          "256GB": 219800,
-          "512GB": 254800,
-          "1TB": 324800,
-          "2TB": 429800
+          "256GB": 1199,
+          "512GB": 1399,
+          "1TB": 1799,
+          "2TB": 2399
         },
-        "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "US": {
+        "amount": 1199,
+        "variants": {
+          "256GB": 1199,
+          "512GB": 1399,
+          "1TB": 1799,
+          "2TB": 2399
+        },
+        "url": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
@@ -107,19 +59,31 @@
           "2TB": 3699
         },
         "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "HK": {
-        "amount": 10499,
+      "AE": {
+        "amount": 5099,
         "variants": {
-          "256GB": 10499,
-          "512GB": 12299,
-          "1TB": 15799,
-          "2TB": 20999
+          "256GB": 5099,
+          "512GB": 5949,
+          "1TB": 7649,
+          "2TB": 10199
         },
-        "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-18-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "IN": {
+        "amount": 164900,
+        "variants": {
+          "256GB": 164900,
+          "512GB": 189900,
+          "1TB": 239900,
+          "2TB": 314900
+        },
+        "url": "https://www.apple.com/in/shop/buy-iphone/iphone-18-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CN": {
@@ -131,7 +95,31 @@
           "2TB": 20499
         },
         "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "HK": {
+        "amount": 10499,
+        "variants": {
+          "256GB": 10499,
+          "512GB": 12299,
+          "1TB": 15799,
+          "2TB": 20999
+        },
+        "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-18-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "JP": {
+        "amount": 219800,
+        "variants": {
+          "256GB": 219800,
+          "512GB": 254800,
+          "1TB": 324800,
+          "2TB": 429800
+        },
+        "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-18-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
@@ -143,7 +131,19 @@
           "2TB": 4499
         },
         "url": "https://www.apple.com/au/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "KR": {
+        "amount": 1990000,
+        "variants": {
+          "256GB": 1990000,
+          "512GB": 2290000,
+          "1TB": 2890000,
+          "2TB": 3790000
+        },
+        "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -157,7 +157,7 @@
           "2TB": 2499
         },
         "url": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -169,19 +169,7 @@
           "2TB": 3699
         },
         "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "UK": {
-        "amount": 1299,
-        "variants": {
-          "256GB": 1299,
-          "512GB": 1499,
-          "1TB": 1899,
-          "2TB": 2499
-        },
-        "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
@@ -193,7 +181,7 @@
           "2TB": 3099
         },
         "url": "https://www.apple.com/de/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
@@ -205,7 +193,7 @@
           "2TB": 329900
         },
         "url": "https://www.apple.com/in/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
@@ -217,7 +205,19 @@
           "2TB": 10599
         },
         "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "UK": {
+        "amount": 1299,
+        "variants": {
+          "256GB": 1299,
+          "512GB": 1499,
+          "1TB": 1899,
+          "2TB": 2499
+        },
+        "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
@@ -229,7 +229,7 @@
           "2TB": 3899
         },
         "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
@@ -241,43 +241,7 @@
           "2TB": 449800
         },
         "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "KR": {
-        "amount": 2190000,
-        "variants": {
-          "256GB": 2190000,
-          "512GB": 2490000,
-          "1TB": 3090000,
-          "2TB": 3990000
-        },
-        "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "HK": {
-        "amount": 11499,
-        "variants": {
-          "256GB": 11499,
-          "512GB": 13299,
-          "1TB": 16799,
-          "2TB": 21999
-        },
-        "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "AU": {
-        "amount": 2299,
-        "variants": {
-          "256GB": 2299,
-          "512GB": 2699,
-          "1TB": 3499,
-          "2TB": 4699
-        },
-        "url": "https://www.apple.com/au/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CN": {
@@ -289,7 +253,43 @@
           "2TB": 21499
         },
         "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "HK": {
+        "amount": 11499,
+        "variants": {
+          "256GB": 11499,
+          "512GB": 13299,
+          "1TB": 16799,
+          "2TB": 21999
+        },
+        "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-18-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "AU": {
+        "amount": 2299,
+        "variants": {
+          "256GB": 2299,
+          "512GB": 2699,
+          "1TB": 3499,
+          "2TB": 4699
+        },
+        "url": "https://www.apple.com/au/shop/buy-iphone/iphone-18-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "KR": {
+        "amount": 2190000,
+        "variants": {
+          "256GB": 2190000,
+          "512GB": 2490000,
+          "1TB": 3090000,
+          "2TB": 3990000
+        },
+        "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -303,31 +303,7 @@
           "2TB": 3199
         },
         "url": "https://www.apple.com/shop/buy-iphone/iphone-duo",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "DE": {
-        "amount": 2299,
-        "variants": {
-          "256GB": 2299,
-          "512GB": 2549,
-          "1TB": 3049,
-          "2TB": 3799
-        },
-        "url": "https://www.apple.com/de/shop/buy-iphone/iphone-duo",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "UK": {
-        "amount": 1999,
-        "variants": {
-          "256GB": 1999,
-          "512GB": 2199,
-          "1TB": 2599,
-          "2TB": 3199
-        },
-        "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-duo",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -339,31 +315,31 @@
           "2TB": 4799
         },
         "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-duo",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "IN": {
-        "amount": 299900,
+      "DE": {
+        "amount": 2299,
         "variants": {
-          "256GB": 299900,
-          "512GB": 324900,
-          "1TB": 374900,
-          "2TB": 449900
+          "256GB": 2299,
+          "512GB": 2549,
+          "1TB": 3049,
+          "2TB": 3799
         },
-        "url": "https://www.apple.com/in/shop/buy-iphone/iphone-duo",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.apple.com/de/shop/buy-iphone/iphone-duo",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "KR": {
-        "amount": 3290000,
+      "UK": {
+        "amount": 1999,
         "variants": {
-          "256GB": 3290000,
-          "512GB": 3590000,
-          "1TB": 4190000,
-          "2TB": 5090000
+          "256GB": 1999,
+          "512GB": 2199,
+          "1TB": 2599,
+          "2TB": 3199
         },
-        "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-duo",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-duo",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
@@ -375,7 +351,7 @@
           "2TB": 13599
         },
         "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-duo",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
@@ -387,31 +363,31 @@
           "2TB": 4899
         },
         "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-duo",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "HK": {
-        "amount": 17499,
+      "IN": {
+        "amount": 299900,
         "variants": {
-          "256GB": 17499,
-          "512GB": 19299,
-          "1TB": 22799,
-          "2TB": 27999
+          "256GB": 299900,
+          "512GB": 324900,
+          "1TB": 374900,
+          "2TB": 449900
         },
-        "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-duo",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.apple.com/in/shop/buy-iphone/iphone-duo",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "JP": {
-        "amount": 364800,
+      "KR": {
+        "amount": 3290000,
         "variants": {
-          "256GB": 364800,
-          "512GB": 399800,
-          "1TB": 469800,
-          "2TB": 574800
+          "256GB": 3290000,
+          "512GB": 3590000,
+          "1TB": 4190000,
+          "2TB": 5090000
         },
-        "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-duo",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-duo",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CN": {
@@ -423,7 +399,31 @@
           "2TB": 26499
         },
         "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-duo",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "HK": {
+        "amount": 17499,
+        "variants": {
+          "256GB": 17499,
+          "512GB": 19299,
+          "1TB": 22799,
+          "2TB": 27999
+        },
+        "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-duo",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "JP": {
+        "amount": 364800,
+        "variants": {
+          "256GB": 364800,
+          "512GB": 399800,
+          "1TB": 469800,
+          "2TB": 574800
+        },
+        "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-duo",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
@@ -435,7 +435,7 @@
           "2TB": 5899
         },
         "url": "https://www.apple.com/au/shop/buy-iphone/iphone-duo",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -448,7 +448,7 @@
           "1TB": 1699
         },
         "url": "https://www.apple.com/shop/buy-iphone/iphone-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -459,7 +459,7 @@
           "1TB": 2499
         },
         "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
@@ -470,73 +470,7 @@
           "1TB": 224900
         },
         "url": "https://www.apple.com/in/shop/buy-iphone/iphone-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "AE": {
-        "amount": 4699,
-        "variants": {
-          "256GB": 4699,
-          "512GB": 5549,
-          "1TB": 7249
-        },
-        "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "DE": {
-        "amount": 1299,
-        "variants": {
-          "256GB": 1299,
-          "512GB": 1549,
-          "1TB": 2049
-        },
-        "url": "https://www.apple.com/de/shop/buy-iphone/iphone-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "UK": {
-        "amount": 1099,
-        "variants": {
-          "256GB": 1099,
-          "512GB": 1299,
-          "1TB": 1699
-        },
-        "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "JP": {
-        "amount": 189800,
-        "variants": {
-          "256GB": 189800,
-          "512GB": 224800,
-          "1TB": 294800
-        },
-        "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "CN": {
-        "amount": 8799,
-        "variants": {
-          "256GB": 8799,
-          "512GB": 10799,
-          "1TB": 14299
-        },
-        "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "KR": {
-        "amount": 1790000,
-        "variants": {
-          "256GB": 1790000,
-          "512GB": 2090000,
-          "1TB": 2690000
-        },
-        "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
@@ -547,7 +481,40 @@
           "1TB": 2649
         },
         "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "AE": {
+        "amount": 4699,
+        "variants": {
+          "256GB": 4699,
+          "512GB": 5549,
+          "1TB": 7249
+        },
+        "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "JP": {
+        "amount": 189800,
+        "variants": {
+          "256GB": 189800,
+          "512GB": 224800,
+          "1TB": 294800
+        },
+        "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "CN": {
+        "amount": 8799,
+        "variants": {
+          "256GB": 8799,
+          "512GB": 10799,
+          "1TB": 14299
+        },
+        "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "HK": {
@@ -558,7 +525,29 @@
           "1TB": 14799
         },
         "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "DE": {
+        "amount": 1299,
+        "variants": {
+          "256GB": 1299,
+          "512GB": 1549,
+          "1TB": 2049
+        },
+        "url": "https://www.apple.com/de/shop/buy-iphone/iphone-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "UK": {
+        "amount": 1099,
+        "variants": {
+          "256GB": 1099,
+          "512GB": 1299,
+          "1TB": 1699
+        },
+        "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
@@ -569,7 +558,18 @@
           "1TB": 3099
         },
         "url": "https://www.apple.com/au/shop/buy-iphone/iphone-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "KR": {
+        "amount": 1790000,
+        "variants": {
+          "256GB": 1790000,
+          "512GB": 2090000,
+          "1TB": 2690000
+        },
+        "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -581,17 +581,7 @@
           "512GB": 1129
         },
         "url": "https://www.apple.com/shop/buy-iphone/iphone-17",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "CA": {
-        "amount": 1299,
-        "variants": {
-          "256GB": 1299,
-          "512GB": 1599
-        },
-        "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-17",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
@@ -601,17 +591,7 @@
           "512GB": 1099
         },
         "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "DE": {
-        "amount": 1099,
-        "variants": {
-          "256GB": 1099,
-          "512GB": 1349
-        },
-        "url": "https://www.apple.com/de/shop/buy-iphone/iphone-17",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
@@ -621,7 +601,7 @@
           "512GB": 124900
         },
         "url": "https://www.apple.com/in/shop/buy-iphone/iphone-17",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
@@ -631,47 +611,17 @@
           "512GB": 4649
         },
         "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-17",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "JP": {
-        "amount": 159800,
+      "CA": {
+        "amount": 1299,
         "variants": {
-          "256GB": 159800,
-          "512GB": 194800
+          "256GB": 1299,
+          "512GB": 1599
         },
-        "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-17",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "HK": {
-        "amount": 7799,
-        "variants": {
-          "256GB": 7799,
-          "512GB": 9599
-        },
-        "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-17",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "CN": {
-        "amount": 6799,
-        "variants": {
-          "256GB": 6799,
-          "512GB": 8799
-        },
-        "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "AU": {
-        "amount": 1549,
-        "variants": {
-          "256GB": 1549,
-          "512GB": 1949
-        },
-        "url": "https://www.apple.com/au/shop/buy-iphone/iphone-17",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-17",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
@@ -681,7 +631,7 @@
           "512GB": 1749
         },
         "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-17",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "KR": {
@@ -691,7 +641,57 @@
           "512GB": 1750000
         },
         "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-17",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "CN": {
+        "amount": 6799,
+        "variants": {
+          "256GB": 6799,
+          "512GB": 8799
+        },
+        "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "HK": {
+        "amount": 7799,
+        "variants": {
+          "256GB": 7799,
+          "512GB": 9599
+        },
+        "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-17",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "JP": {
+        "amount": 159800,
+        "variants": {
+          "256GB": 159800,
+          "512GB": 194800
+        },
+        "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-17",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "AU": {
+        "amount": 1549,
+        "variants": {
+          "256GB": 1549,
+          "512GB": 1949
+        },
+        "url": "https://www.apple.com/au/shop/buy-iphone/iphone-17",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "DE": {
+        "amount": 1099,
+        "variants": {
+          "256GB": 1099,
+          "512GB": 1349
+        },
+        "url": "https://www.apple.com/de/shop/buy-iphone/iphone-17",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -703,7 +703,7 @@
           "512GB": 899
         },
         "url": "https://www.apple.com/shop/buy-iphone/iphone-17e",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -713,17 +713,7 @@
           "512GB": 1299
         },
         "url": "https://www.apple.com/ca/shop/buy-iphone/iphone-17e",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "UK": {
-        "amount": 699,
-        "variants": {
-          "256GB": 699,
-          "512GB": 899
-        },
-        "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17e",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
@@ -733,7 +723,7 @@
           "512GB": 1099
         },
         "url": "https://www.apple.com/de/shop/buy-iphone/iphone-17e",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
@@ -743,7 +733,7 @@
           "512GB": 104900
         },
         "url": "https://www.apple.com/in/shop/buy-iphone/iphone-17e",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
@@ -753,7 +743,7 @@
           "512GB": 159800
         },
         "url": "https://www.apple.com/jp/shop/buy-iphone/iphone-17e",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "KR": {
@@ -763,27 +753,7 @@
           "512GB": 1450000
         },
         "url": "https://www.apple.com/kr/shop/buy-iphone/iphone-17e",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "AE": {
-        "amount": 2999,
-        "variants": {
-          "256GB": 2999,
-          "512GB": 3849
-        },
-        "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-17e",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "CN": {
-        "amount": 5299,
-        "variants": {
-          "256GB": 5299,
-          "512GB": 7299
-        },
-        "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17e",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
@@ -793,17 +763,37 @@
           "512GB": 1399
         },
         "url": "https://www.apple.com/sg/shop/buy-iphone/iphone-17e",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "HK": {
-        "amount": 5999,
+      "CN": {
+        "amount": 5299,
         "variants": {
-          "256GB": 5999,
-          "512GB": 7799
+          "256GB": 5299,
+          "512GB": 7299
         },
-        "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-17e",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17e",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "UK": {
+        "amount": 699,
+        "variants": {
+          "256GB": 699,
+          "512GB": 899
+        },
+        "url": "https://www.apple.com/uk/shop/buy-iphone/iphone-17e",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "AE": {
+        "amount": 2999,
+        "variants": {
+          "256GB": 2999,
+          "512GB": 3849
+        },
+        "url": "https://www.apple.com/ae/shop/buy-iphone/iphone-17e",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
@@ -813,29 +803,28 @@
           "512GB": 1549
         },
         "url": "https://www.apple.com/au/shop/buy-iphone/iphone-17e",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "HK": {
+        "amount": 5999,
+        "variants": {
+          "256GB": 5999,
+          "512GB": 7799
+        },
+        "url": "https://www.apple.com/hk/shop/buy-iphone/iphone-17e",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
     "galaxy-s26-ultra": {
-      "UK": {
-        "amount": 1359,
-        "variants": {
-          "256GB": 1359,
-          "512GB": 1529,
-          "1TB": 1859
-        },
-        "url": "https://www.samsung.com/uk/smartphones/galaxy-s26-ultra/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
       "US": {
         "amount": 1249.99,
         "variants": {
           "512GB": 1249.99
         },
         "url": "https://www.samsung.com/us/smartphones/galaxy-s26-ultra/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
@@ -846,7 +835,18 @@
           "1TB": 1599
         },
         "url": "https://www.samsung.com/de/smartphones/galaxy-s26-ultra/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "UK": {
+        "amount": 1359,
+        "variants": {
+          "256GB": 1359,
+          "512GB": 1529,
+          "1TB": 1859
+        },
+        "url": "https://www.samsung.com/uk/smartphones/galaxy-s26-ultra/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -857,28 +857,7 @@
           "1TB": 2849.99
         },
         "url": "https://www.samsung.com/ca/smartphones/galaxy-s26-ultra/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "SG": {
-        "amount": 2028,
-        "variants": {
-          "256GB": 2028,
-          "512GB": 2328,
-          "1TB": 2928
-        },
-        "url": "https://www.samsung.com/sg/smartphones/galaxy-s26-ultra/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "IN": {
-        "amount": 154999,
-        "variants": {
-          "256GB": 154999,
-          "512GB": 174999
-        },
-        "url": "https://www.samsung.com/in/smartphones/galaxy-s26-ultra/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
@@ -889,13 +868,23 @@
           "1TB": 7899
         },
         "url": "https://www.samsung.com/ae/smartphones/galaxy-s26-ultra/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "IN": {
+        "amount": 154999,
+        "variants": {
+          "256GB": 154999,
+          "512GB": 174999
+        },
+        "url": "https://www.samsung.com/in/smartphones/galaxy-s26-ultra/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "KR": {
         "amount": 1712400,
         "url": "https://www.samsung.com/sec/smartphones/galaxy-s26-ultra/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
@@ -906,29 +895,7 @@
           "1TB": 334200
         },
         "url": "https://www.samsung.com/jp/smartphones/galaxy-s26-ultra/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "AU": {
-        "amount": 1799,
-        "variants": {
-          "256GB": 1799,
-          "512GB": 2099,
-          "1TB": 2549
-        },
-        "url": "https://www.samsung.com/au/smartphones/galaxy-s26-ultra/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "CN": {
-        "amount": 10999,
-        "variants": {
-          "256GB": 10999,
-          "512GB": 12599,
-          "1TB": 15799
-        },
-        "url": "https://www.samsung.com.cn/smartphones/galaxy-s26-ultra/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "HK": {
@@ -939,7 +906,40 @@
           "1TB": 16298
         },
         "url": "https://www.samsung.com/hk_en/smartphones/galaxy-s26-ultra/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "CN": {
+        "amount": 10999,
+        "variants": {
+          "256GB": 10999,
+          "512GB": 12599,
+          "1TB": 15799
+        },
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-s26-ultra/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "SG": {
+        "amount": 2028,
+        "variants": {
+          "256GB": 2028,
+          "512GB": 2328,
+          "1TB": 2928
+        },
+        "url": "https://www.samsung.com/sg/smartphones/galaxy-s26-ultra/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "AU": {
+        "amount": 1799,
+        "variants": {
+          "256GB": 1799,
+          "512GB": 2099,
+          "1TB": 2549
+        },
+        "url": "https://www.samsung.com/au/smartphones/galaxy-s26-ultra/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -950,7 +950,7 @@
           "256GB": 849.99
         },
         "url": "https://www.samsung.com/us/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -960,17 +960,7 @@
           "512GB": 1679.99
         },
         "url": "https://www.samsung.com/ca/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "UK": {
-        "amount": 959,
-        "variants": {
-          "256GB": 959,
-          "512GB": 1129
-        },
-        "url": "https://www.samsung.com/uk/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
@@ -980,7 +970,17 @@
           "512GB": 829
         },
         "url": "https://www.samsung.com/de/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "UK": {
+        "amount": 959,
+        "variants": {
+          "256GB": 959,
+          "512GB": 1129
+        },
+        "url": "https://www.samsung.com/uk/smartphones/galaxy-s26/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
@@ -990,7 +990,7 @@
           "512GB": 1888
         },
         "url": "https://www.samsung.com/sg/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
@@ -1000,7 +1000,7 @@
           "512GB": 122999
         },
         "url": "https://www.samsung.com/in/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CN": {
@@ -1009,13 +1009,13 @@
           "256GB": 7799
         },
         "url": "https://www.samsung.com.cn/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "KR": {
         "amount": 981800,
         "url": "https://www.samsung.com/sec/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
@@ -1025,27 +1025,7 @@
           "512GB": 4799
         },
         "url": "https://www.samsung.com/ae/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "AU": {
-        "amount": 1649,
-        "variants": {
-          "256GB": 1649,
-          "512GB": 1949
-        },
-        "url": "https://www.samsung.com/au/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "JP": {
-        "amount": 155800,
-        "variants": {
-          "256GB": 155800,
-          "512GB": 183300
-        },
-        "url": "https://www.samsung.com/jp/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "HK": {
@@ -1055,7 +1035,27 @@
           "512GB": 9398
         },
         "url": "https://www.samsung.com/hk_en/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "JP": {
+        "amount": 155800,
+        "variants": {
+          "256GB": 155800,
+          "512GB": 183300
+        },
+        "url": "https://www.samsung.com/jp/smartphones/galaxy-s26/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "AU": {
+        "amount": 1649,
+        "variants": {
+          "256GB": 1649,
+          "512GB": 1949
+        },
+        "url": "https://www.samsung.com/au/smartphones/galaxy-s26/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -1063,7 +1063,7 @@
       "US": {
         "amount": 849.99,
         "url": "https://www.samsung.com/us/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -1073,7 +1073,7 @@
           "512GB": 1959.99
         },
         "url": "https://www.samsung.com/ca/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
@@ -1083,7 +1083,16 @@
           "512GB": 1099
         },
         "url": "https://www.samsung.com/uk/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "IN": {
+        "amount": 134999,
+        "variants": {
+          "256GB": 134999
+        },
+        "url": "https://www.samsung.com/in/smartphones/galaxy-s26/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
@@ -1093,7 +1102,7 @@
           "512GB": 1149
         },
         "url": "https://www.samsung.com/de/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
@@ -1102,26 +1111,7 @@
           "512GB": 5499
         },
         "url": "https://www.samsung.com/ae/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "IN": {
-        "amount": 134999,
-        "variants": {
-          "256GB": 134999
-        },
-        "url": "https://www.samsung.com/in/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "SG": {
-        "amount": 1778,
-        "variants": {
-          "256GB": 1778,
-          "512GB": 2078
-        },
-        "url": "https://www.samsung.com/sg/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CN": {
@@ -1131,23 +1121,17 @@
           "512GB": 10599
         },
         "url": "https://www.samsung.com.cn/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "KR": {
-        "amount": 1234500,
-        "url": "https://www.samsung.com/sec/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "JP": {
-        "amount": 192130,
+      "SG": {
+        "amount": 1778,
         "variants": {
-          "256GB": 192130,
-          "512GB": 219100
+          "256GB": 1778,
+          "512GB": 2078
         },
-        "url": "https://www.samsung.com/jp/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.samsung.com/sg/smartphones/galaxy-s26/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "HK": {
@@ -1157,13 +1141,33 @@
           "512GB": 11298
         },
         "url": "https://www.samsung.com/hk_en/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "KR": {
+        "amount": 1234500,
+        "url": "https://www.samsung.com/sec/smartphones/galaxy-s26/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "JP": {
+        "amount": 192130,
+        "variants": {
+          "256GB": 192130,
+          "512GB": 219100
+        },
+        "url": "https://www.samsung.com/jp/smartphones/galaxy-s26/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
-        "amount": 1649,
+        "amount": 1949,
+        "variants": {
+          "256GB": 1949,
+          "512GB": 2249
+        },
         "url": "https://www.samsung.com/au/smartphones/galaxy-s26/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -1174,7 +1178,7 @@
           "256GB": 1549.99
         },
         "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -1185,7 +1189,7 @@
           "1TB": 3239.99
         },
         "url": "https://www.samsung.com/ca/smartphones/galaxy-z-fold8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
@@ -1196,17 +1200,7 @@
           "1TB": 2209
         },
         "url": "https://www.samsung.com/uk/smartphones/galaxy-z-fold8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "IN": {
-        "amount": 179999,
-        "variants": {
-          "256GB": 179999,
-          "512GB": 199999
-        },
-        "url": "https://www.samsung.com/in/smartphones/galaxy-z-fold8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
@@ -1217,29 +1211,7 @@
           "1TB": 1879
         },
         "url": "https://www.samsung.com/de/smartphones/galaxy-z-fold8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "AE": {
-        "amount": 7199,
-        "variants": {
-          "256GB": 7199,
-          "512GB": 7999,
-          "1TB": 9599
-        },
-        "url": "https://www.samsung.com/ae/smartphones/galaxy-z-fold8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "CN": {
-        "amount": 12999,
-        "variants": {
-          "256GB": 12999,
-          "512GB": 14599,
-          "1TB": 17799
-        },
-        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-fold8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
@@ -1250,7 +1222,7 @@
           "1TB": 3398
         },
         "url": "https://www.samsung.com/sg/smartphones/galaxy-z-fold8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
@@ -1261,7 +1233,39 @@
           "1TB": 359880
         },
         "url": "https://www.samsung.com/jp/smartphones/galaxy-z-fold8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "CN": {
+        "amount": 12999,
+        "variants": {
+          "256GB": 12999,
+          "512GB": 14599,
+          "1TB": 17799
+        },
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-fold8/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "IN": {
+        "amount": 179999,
+        "variants": {
+          "256GB": 179999,
+          "512GB": 199999
+        },
+        "url": "https://www.samsung.com/in/smartphones/galaxy-z-fold8/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "AE": {
+        "amount": 7199,
+        "variants": {
+          "256GB": 7199,
+          "512GB": 7999,
+          "1TB": 9599
+        },
+        "url": "https://www.samsung.com/ae/smartphones/galaxy-z-fold8/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "HK": {
@@ -1272,7 +1276,7 @@
           "1TB": 18698
         },
         "url": "https://www.samsung.com/hk_en/smartphones/galaxy-z-fold8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
@@ -1283,7 +1287,7 @@
           "1TB": 3599
         },
         "url": "https://www.samsung.com/au/smartphones/galaxy-z-fold8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -1291,7 +1295,7 @@
       "US": {
         "amount": 1199.99,
         "url": "https://www.samsung.com/us/smartphones/galaxy-z-flip8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -1301,26 +1305,7 @@
           "512GB": 1829.99
         },
         "url": "https://www.samsung.com/ca/smartphones/galaxy-z-flip8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "UK": {
-        "amount": 1149,
-        "variants": {
-          "256GB": 1149,
-          "512GB": 1319
-        },
-        "url": "https://www.samsung.com/uk/smartphones/galaxy-z-flip8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "IN": {
-        "amount": 144999,
-        "variants": {
-          "512GB": 144999
-        },
-        "url": "https://www.samsung.com/in/smartphones/galaxy-z-flip8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
@@ -1330,7 +1315,26 @@
           "512GB": 1199
         },
         "url": "https://www.samsung.com/de/smartphones/galaxy-z-flip8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "UK": {
+        "amount": 1149,
+        "variants": {
+          "256GB": 1149,
+          "512GB": 1319
+        },
+        "url": "https://www.samsung.com/uk/smartphones/galaxy-z-flip8/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "IN": {
+        "amount": 144999,
+        "variants": {
+          "512GB": 144999
+        },
+        "url": "https://www.samsung.com/in/smartphones/galaxy-z-flip8/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
@@ -1340,37 +1344,7 @@
           "512GB": 5499
         },
         "url": "https://www.samsung.com/ae/smartphones/galaxy-z-flip8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "SG": {
-        "amount": 1678,
-        "variants": {
-          "256GB": 1678,
-          "512GB": 1978
-        },
-        "url": "https://www.samsung.com/sg/smartphones/galaxy-z-flip8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "CN": {
-        "amount": 8999,
-        "variants": {
-          "256GB": 8999,
-          "512GB": 10599
-        },
-        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-flip8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "HK": {
-        "amount": 8998,
-        "variants": {
-          "256GB": 8998,
-          "512GB": 10598
-        },
-        "url": "https://www.samsung.com/hk_en/smartphones/galaxy-z-flip8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
@@ -1380,13 +1354,43 @@
           "512GB": 222680
         },
         "url": "https://www.samsung.com/jp/smartphones/galaxy-z-flip8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "SG": {
+        "amount": 1678,
+        "variants": {
+          "256GB": 1678,
+          "512GB": 1978
+        },
+        "url": "https://www.samsung.com/sg/smartphones/galaxy-z-flip8/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "CN": {
+        "amount": 8999,
+        "variants": {
+          "256GB": 8999,
+          "512GB": 10599
+        },
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-flip8/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "HK": {
+        "amount": 8998,
+        "variants": {
+          "256GB": 8998,
+          "512GB": 10598
+        },
+        "url": "https://www.samsung.com/hk_en/smartphones/galaxy-z-flip8/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
         "amount": 1749,
         "url": "https://www.samsung.com/au/smartphones/galaxy-z-flip8/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -1394,7 +1398,13 @@
       "CA": {
         "amount": 1499,
         "url": "https://store.google.com/ca/product/pixel_11_pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "US": {
+        "amount": 1099,
+        "url": "https://store.google.com/us/product/pixel_11_pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
@@ -1405,13 +1415,7 @@
           "1TB": 1149
         },
         "url": "https://store.google.com/gb/product/pixel_11_pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "US": {
-        "amount": 1099,
-        "url": "https://store.google.com/us/product/pixel_11_pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
@@ -1422,7 +1426,7 @@
           "1TB": 1289
         },
         "url": "https://store.google.com/de/product/pixel_11_pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
@@ -1432,18 +1436,7 @@
           "512GB": 134999
         },
         "url": "https://store.google.com/in/product/pixel_11_pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "SG": {
-        "amount": 1519,
-        "variants": {
-          "256GB": 1519,
-          "512GB": 1689,
-          "1TB": 1979
-        },
-        "url": "https://store.google.com/sg/product/pixel_11_pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
@@ -1454,7 +1447,18 @@
           "1TB": 224800
         },
         "url": "https://store.google.com/jp/product/pixel_11_pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "SG": {
+        "amount": 1519,
+        "variants": {
+          "256GB": 1519,
+          "512GB": 1689,
+          "1TB": 2189
+        },
+        "url": "https://store.google.com/sg/product/pixel_11_pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
@@ -1465,31 +1469,21 @@
           "1TB": 1899
         },
         "url": "https://store.google.com/au/product/pixel_11_pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
     "pixel-11": {
-      "US": {
-        "amount": 899,
-        "url": "https://store.google.com/us/product/pixel_11",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
       "CA": {
         "amount": 1249,
         "url": "https://store.google.com/ca/product/pixel_11",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "DE": {
-        "amount": 699,
-        "variants": {
-          "256GB": 699,
-          "512GB": 829
-        },
-        "url": "https://store.google.com/de/product/pixel_11",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+      "US": {
+        "amount": 899,
+        "url": "https://store.google.com/us/product/pixel_11",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
@@ -1499,7 +1493,17 @@
           "512GB": 769
         },
         "url": "https://store.google.com/gb/product/pixel_11",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "DE": {
+        "amount": 699,
+        "variants": {
+          "256GB": 699,
+          "512GB": 829
+        },
+        "url": "https://store.google.com/de/product/pixel_11",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
@@ -1509,7 +1513,7 @@
           "512GB": 94999
         },
         "url": "https://store.google.com/in/product/pixel_11",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
@@ -1519,7 +1523,7 @@
           "512GB": 1479
         },
         "url": "https://store.google.com/sg/product/pixel_11",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
@@ -1529,13 +1533,13 @@
           "512GB": 156800
         },
         "url": "https://store.google.com/jp/product/pixel_11",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
         "amount": 1499,
         "url": "https://store.google.com/au/product/pixel_11",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -1548,7 +1552,7 @@
           "1TB": 1999
         },
         "url": "https://store.google.com/us/product/pixel_11_pro_fold",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
@@ -1559,13 +1563,13 @@
           "1TB": 1949
         },
         "url": "https://store.google.com/gb/product/pixel_11_pro_fold",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
         "amount": 2499,
         "url": "https://store.google.com/ca/product/pixel_11_pro_fold",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
@@ -1576,7 +1580,16 @@
           "1TB": 2389
         },
         "url": "https://store.google.com/de/product/pixel_11_pro_fold",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "IN": {
+        "amount": 186999,
+        "variants": {
+          "512GB": 186999
+        },
+        "url": "https://store.google.com/in/product/pixel_11_pro_fold",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
@@ -1587,16 +1600,7 @@
           "1TB": 2839
         },
         "url": "https://store.google.com/sg/product/pixel_11_pro_fold",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "IN": {
-        "amount": 186999,
-        "variants": {
-          "512GB": 186999
-        },
-        "url": "https://store.google.com/in/product/pixel_11_pro_fold",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
@@ -1606,13 +1610,13 @@
           "512GB": 299900
         },
         "url": "https://store.google.com/jp/product/pixel_11_pro_fold",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
         "amount": 2799,
         "url": "https://store.google.com/au/product/pixel_11_pro_fold",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -1624,7 +1628,7 @@
           "256GB": 649
         },
         "url": "https://store.google.com/us/product/pixel_10a",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
@@ -1634,13 +1638,13 @@
           "256GB": 499
         },
         "url": "https://store.google.com/gb/product/pixel_10a",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
         "amount": 849,
         "url": "https://store.google.com/ca/product/pixel_10a",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
@@ -1649,7 +1653,7 @@
           "256GB": 55999
         },
         "url": "https://store.google.com/in/product/pixel_10a",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
@@ -1659,7 +1663,7 @@
           "256GB": 979
         },
         "url": "https://store.google.com/sg/product/pixel_10a",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
@@ -1669,19 +1673,19 @@
           "256GB": 93880
         },
         "url": "https://store.google.com/jp/product/pixel_10a",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
         "amount": 649,
         "url": "https://store.google.com/de/product/pixel_10a",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
         "amount": 949,
         "url": "https://store.google.com/au/product/pixel_10a",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -1689,73 +1693,73 @@
       "US": {
         "amount": 1299,
         "url": "https://www.apple.com/shop/buy-mac/macbook-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
         "amount": 1799,
         "url": "https://www.apple.com/ca/shop/buy-mac/macbook-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
         "amount": 1299,
         "url": "https://www.apple.com/uk/shop/buy-mac/macbook-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
         "amount": 1399,
         "url": "https://www.apple.com/de/shop/buy-mac/macbook-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
         "amount": 149900,
         "url": "https://www.apple.com/in/shop/buy-mac/macbook-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
         "amount": 5499,
         "url": "https://www.apple.com/ae/shop/buy-mac/macbook-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
         "amount": 1899,
         "url": "https://www.apple.com/sg/shop/buy-mac/macbook-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "KR": {
-        "amount": 2190000,
-        "url": "https://www.apple.com/kr/shop/buy-mac/macbook-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "CN": {
-        "amount": 9999,
-        "url": "https://www.apple.com.cn/shop/buy-mac/macbook-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
         "amount": 224800,
         "url": "https://www.apple.com/jp/shop/buy-mac/macbook-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "AU": {
-        "amount": 2099,
-        "url": "https://www.apple.com/au/shop/buy-mac/macbook-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+      "KR": {
+        "amount": 2190000,
+        "url": "https://www.apple.com/kr/shop/buy-mac/macbook-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "HK": {
         "amount": 10499,
         "url": "https://www.apple.com/hk/shop/buy-mac/macbook-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "CN": {
+        "amount": 9999,
+        "url": "https://www.apple.com.cn/shop/buy-mac/macbook-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "AU": {
+        "amount": 2099,
+        "url": "https://www.apple.com/au/shop/buy-mac/macbook-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -1763,73 +1767,73 @@
       "US": {
         "amount": 1999,
         "url": "https://www.apple.com/shop/buy-mac/macbook-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "UK": {
-        "amount": 1999,
-        "url": "https://www.apple.com/uk/shop/buy-mac/macbook-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
         "amount": 2799,
         "url": "https://www.apple.com/ca/shop/buy-mac/macbook-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "UK": {
+        "amount": 1999,
+        "url": "https://www.apple.com/uk/shop/buy-mac/macbook-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
         "amount": 239900,
         "url": "https://www.apple.com/in/shop/buy-mac/macbook-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
         "amount": 8499,
         "url": "https://www.apple.com/ae/shop/buy-mac/macbook-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "DE": {
-        "amount": 2299,
-        "url": "https://www.apple.com/de/shop/buy-mac/macbook-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
         "amount": 2699,
         "url": "https://www.apple.com/sg/shop/buy-mac/macbook-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
         "amount": 339800,
         "url": "https://www.apple.com/jp/shop/buy-mac/macbook-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "KR": {
-        "amount": 3290000,
-        "url": "https://www.apple.com/kr/shop/buy-mac/macbook-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "HK": {
-        "amount": 15999,
-        "url": "https://www.apple.com/hk/shop/buy-mac/macbook-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "AU": {
-        "amount": 3199,
-        "url": "https://www.apple.com/au/shop/buy-mac/macbook-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+      "DE": {
+        "amount": 2299,
+        "url": "https://www.apple.com/de/shop/buy-mac/macbook-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CN": {
         "amount": 15999,
         "url": "https://www.apple.com.cn/shop/buy-mac/macbook-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "HK": {
+        "amount": 15999,
+        "url": "https://www.apple.com/hk/shop/buy-mac/macbook-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "KR": {
+        "amount": 3290000,
+        "url": "https://www.apple.com/kr/shop/buy-mac/macbook-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "AU": {
+        "amount": 3199,
+        "url": "https://www.apple.com/au/shop/buy-mac/macbook-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -1842,95 +1846,7 @@
           "512GB": 749
         },
         "url": "https://www.apple.com/shop/buy-ipad/ipad",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "DE": {
-        "amount": 499,
-        "variants": {
-          "128GB": 499,
-          "256GB": 629,
-          "512GB": 879
-        },
-        "url": "https://www.apple.com/de/shop/buy-ipad/ipad",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "UK": {
-        "amount": 429,
-        "variants": {
-          "128GB": 429,
-          "256GB": 529,
-          "512GB": 729
-        },
-        "url": "https://www.apple.com/uk/shop/buy-ipad/ipad",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "AE": {
-        "amount": 1899,
-        "variants": {
-          "128GB": 1899,
-          "256GB": 2299,
-          "512GB": 3099
-        },
-        "url": "https://www.apple.com/ae/shop/buy-ipad/ipad",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "IN": {
-        "amount": 49900,
-        "variants": {
-          "128GB": 49900,
-          "256GB": 61900,
-          "512GB": 85900
-        },
-        "url": "https://www.apple.com/in/shop/buy-ipad/ipad",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "SG": {
-        "amount": 649,
-        "variants": {
-          "128GB": 649,
-          "256GB": 799,
-          "512GB": 1099
-        },
-        "url": "https://www.apple.com/sg/shop/buy-ipad/ipad",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "JP": {
-        "amount": 74800,
-        "variants": {
-          "128GB": 74800,
-          "256GB": 91800,
-          "512GB": 126800
-        },
-        "url": "https://www.apple.com/jp/shop/buy-ipad/ipad",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "CN": {
-        "amount": 3799,
-        "variants": {
-          "128GB": 3799,
-          "256GB": 4299,
-          "512GB": 5999
-        },
-        "url": "https://www.apple.com.cn/shop/buy-ipad/ipad",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "AU": {
-        "amount": 749,
-        "variants": {
-          "128GB": 749,
-          "256GB": 949,
-          "512GB": 1299
-        },
-        "url": "https://www.apple.com/au/shop/buy-ipad/ipad",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -1941,7 +1857,84 @@
           "512GB": 1079
         },
         "url": "https://www.apple.com/ca/shop/buy-ipad/ipad",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "UK": {
+        "amount": 429,
+        "variants": {
+          "128GB": 429,
+          "256GB": 529,
+          "512GB": 729
+        },
+        "url": "https://www.apple.com/uk/shop/buy-ipad/ipad",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "DE": {
+        "amount": 499,
+        "variants": {
+          "128GB": 499,
+          "256GB": 629,
+          "512GB": 879
+        },
+        "url": "https://www.apple.com/de/shop/buy-ipad/ipad",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "IN": {
+        "amount": 49900,
+        "variants": {
+          "128GB": 49900,
+          "256GB": 61900,
+          "512GB": 85900
+        },
+        "url": "https://www.apple.com/in/shop/buy-ipad/ipad",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "SG": {
+        "amount": 649,
+        "variants": {
+          "128GB": 649,
+          "256GB": 799,
+          "512GB": 1099
+        },
+        "url": "https://www.apple.com/sg/shop/buy-ipad/ipad",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "JP": {
+        "amount": 74800,
+        "variants": {
+          "128GB": 74800,
+          "256GB": 91800,
+          "512GB": 126800
+        },
+        "url": "https://www.apple.com/jp/shop/buy-ipad/ipad",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "AE": {
+        "amount": 1899,
+        "variants": {
+          "128GB": 1899,
+          "256GB": 2299,
+          "512GB": 3099
+        },
+        "url": "https://www.apple.com/ae/shop/buy-ipad/ipad",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "CN": {
+        "amount": 3799,
+        "variants": {
+          "128GB": 3799,
+          "256GB": 4299,
+          "512GB": 5999
+        },
+        "url": "https://www.apple.com.cn/shop/buy-ipad/ipad",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "KR": {
@@ -1952,7 +1945,18 @@
           "512GB": 1269000
         },
         "url": "https://www.apple.com/kr/shop/buy-ipad/ipad",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "AU": {
+        "amount": 749,
+        "variants": {
+          "128GB": 749,
+          "256GB": 949,
+          "512GB": 1299
+        },
+        "url": "https://www.apple.com/au/shop/buy-ipad/ipad",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "HK": {
@@ -1963,7 +1967,7 @@
           "512GB": 5999
         },
         "url": "https://www.apple.com/hk/shop/buy-ipad/ipad",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -1976,29 +1980,7 @@
           "512GB": 999
         },
         "url": "https://www.apple.com/shop/buy-ipad/ipad-mini",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "UK": {
-        "amount": 699,
-        "variants": {
-          "128GB": 699,
-          "256GB": 799,
-          "512GB": 999
-        },
-        "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-mini",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "DE": {
-        "amount": 749,
-        "variants": {
-          "128GB": 749,
-          "256GB": 879,
-          "512GB": 1129
-        },
-        "url": "https://www.apple.com/de/shop/buy-ipad/ipad-mini",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -2009,29 +1991,18 @@
           "512GB": 1379
         },
         "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-mini",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "IN": {
-        "amount": 82900,
+      "DE": {
+        "amount": 749,
         "variants": {
-          "128GB": 82900,
-          "256GB": 94900,
-          "512GB": 118900
+          "128GB": 749,
+          "256GB": 879,
+          "512GB": 1129
         },
-        "url": "https://www.apple.com/in/shop/buy-ipad/ipad-mini",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "SG": {
-        "amount": 999,
-        "variants": {
-          "128GB": 999,
-          "256GB": 1149,
-          "512GB": 1449
-        },
-        "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-mini",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.apple.com/de/shop/buy-ipad/ipad-mini",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
@@ -2042,40 +2013,29 @@
           "512GB": 4049
         },
         "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-mini",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "HK": {
-        "amount": 5299,
+      "IN": {
+        "amount": 82900,
         "variants": {
-          "128GB": 5299,
-          "256GB": 6099,
-          "512GB": 7699
+          "128GB": 82900,
+          "256GB": 94900,
+          "512GB": 118900
         },
-        "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-mini",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.apple.com/in/shop/buy-ipad/ipad-mini",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "KR": {
-        "amount": 1149000,
+      "SG": {
+        "amount": 999,
         "variants": {
-          "128GB": 1149000,
-          "256GB": 1319000,
-          "512GB": 1669000
+          "128GB": 999,
+          "256GB": 1149,
+          "512GB": 1449
         },
-        "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-mini",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "CN": {
-        "amount": 5499,
-        "variants": {
-          "128GB": 5499,
-          "256GB": 6299,
-          "512GB": 7999
-        },
-        "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-mini",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-mini",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
@@ -2086,7 +2046,29 @@
           "512GB": 171800
         },
         "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-mini",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "UK": {
+        "amount": 699,
+        "variants": {
+          "128GB": 699,
+          "256GB": 799,
+          "512GB": 999
+        },
+        "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-mini",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "CN": {
+        "amount": 5499,
+        "variants": {
+          "128GB": 5499,
+          "256GB": 6299,
+          "512GB": 7999
+        },
+        "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-mini",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
@@ -2097,7 +2079,29 @@
           "512GB": 1649
         },
         "url": "https://www.apple.com/au/shop/buy-ipad/ipad-mini",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "HK": {
+        "amount": 5299,
+        "variants": {
+          "128GB": 5299,
+          "256GB": 6099,
+          "512GB": 7699
+        },
+        "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-mini",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "KR": {
+        "amount": 1149000,
+        "variants": {
+          "128GB": 1149000,
+          "256GB": 1319000,
+          "512GB": 1669000
+        },
+        "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-mini",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -2111,7 +2115,7 @@
           "1TB": 1349
         },
         "url": "https://www.apple.com/shop/buy-ipad/ipad-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
@@ -2123,19 +2127,7 @@
           "1TB": 1349
         },
         "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "CA": {
-        "amount": 999,
-        "variants": {
-          "128GB": 999,
-          "256GB": 1149,
-          "512GB": 1429,
-          "1TB": 1859
-        },
-        "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
@@ -2147,7 +2139,7 @@
           "1TB": 161900
         },
         "url": "https://www.apple.com/in/shop/buy-ipad/ipad-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
@@ -2159,67 +2151,7 @@
           "1TB": 5399
         },
         "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "KR": {
-        "amount": 1249000,
-        "variants": {
-          "128GB": 1249000,
-          "256GB": 1419000,
-          "512GB": 1769000,
-          "1TB": 2269000
-        },
-        "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "CN": {
-        "amount": 5999,
-        "variants": {
-          "128GB": 5999,
-          "256GB": 6499,
-          "512GB": 8199,
-          "1TB": 10699
-        },
-        "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "JP": {
-        "amount": 129800,
-        "variants": {
-          "128GB": 129800,
-          "256GB": 146800,
-          "512GB": 181800,
-          "1TB": 231800
-        },
-        "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "AU": {
-        "amount": 1249,
-        "variants": {
-          "128GB": 1249,
-          "256GB": 1449,
-          "512GB": 1799,
-          "1TB": 2299
-        },
-        "url": "https://www.apple.com/au/shop/buy-ipad/ipad-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "DE": {
-        "amount": 799,
-        "variants": {
-          "128GB": 799,
-          "256GB": 929,
-          "512GB": 1179,
-          "1TB": 1559
-        },
-        "url": "https://www.apple.com/de/shop/buy-ipad/ipad-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
@@ -2231,7 +2163,43 @@
           "1TB": 2049
         },
         "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "JP": {
+        "amount": 129800,
+        "variants": {
+          "128GB": 129800,
+          "256GB": 146800,
+          "512GB": 181800,
+          "1TB": 231800
+        },
+        "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "KR": {
+        "amount": 1249000,
+        "variants": {
+          "128GB": 1249000,
+          "256GB": 1419000,
+          "512GB": 1769000,
+          "1TB": 2269000
+        },
+        "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "CN": {
+        "amount": 5999,
+        "variants": {
+          "128GB": 5999,
+          "256GB": 6499,
+          "512GB": 8199,
+          "1TB": 10699
+        },
+        "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "HK": {
@@ -2243,7 +2211,43 @@
           "1TB": 10799
         },
         "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-air",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "CA": {
+        "amount": 999,
+        "variants": {
+          "128GB": 999,
+          "256GB": 1149,
+          "512GB": 1429,
+          "1TB": 1859
+        },
+        "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "DE": {
+        "amount": 799,
+        "variants": {
+          "128GB": 799,
+          "256GB": 929,
+          "512GB": 1179,
+          "1TB": 1559
+        },
+        "url": "https://www.apple.com/de/shop/buy-ipad/ipad-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "AU": {
+        "amount": 1249,
+        "variants": {
+          "128GB": 1249,
+          "256GB": 1449,
+          "512GB": 1799,
+          "1TB": 2299
+        },
+        "url": "https://www.apple.com/au/shop/buy-ipad/ipad-air",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -2257,7 +2261,7 @@
           "2TB": 2299
         },
         "url": "https://www.apple.com/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -2269,19 +2273,7 @@
           "2TB": 3229
         },
         "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "DE": {
-        "amount": 1299,
-        "variants": {
-          "256GB": 1299,
-          "512GB": 1549,
-          "1TB": 2029,
-          "2TB": 2649
-        },
-        "url": "https://www.apple.com/de/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
@@ -2293,19 +2285,19 @@
           "2TB": 2299
         },
         "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "AE": {
-        "amount": 4999,
+      "DE": {
+        "amount": 1299,
         "variants": {
-          "256GB": 4999,
-          "512GB": 5799,
-          "1TB": 7399,
-          "2TB": 9399
+          "256GB": 1299,
+          "512GB": 1549,
+          "1TB": 2029,
+          "2TB": 2649
         },
-        "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.apple.com/de/shop/buy-ipad/ipad-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
@@ -2317,19 +2309,19 @@
           "2TB": 271900
         },
         "url": "https://www.apple.com/in/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "SG": {
-        "amount": 1799,
+      "AE": {
+        "amount": 4999,
         "variants": {
-          "256GB": 1799,
-          "512GB": 2099,
-          "1TB": 2699,
-          "2TB": 3449
+          "256GB": 4999,
+          "512GB": 5799,
+          "1TB": 7399,
+          "2TB": 9399
         },
-        "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
@@ -2341,7 +2333,7 @@
           "2TB": 404800
         },
         "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "KR": {
@@ -2353,19 +2345,7 @@
           "2TB": 3899000
         },
         "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "HK": {
-        "amount": 9499,
-        "variants": {
-          "256GB": 9499,
-          "512GB": 11099,
-          "1TB": 14299,
-          "2TB": 18299
-        },
-        "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CN": {
@@ -2377,7 +2357,19 @@
           "2TB": 20099
         },
         "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "HK": {
+        "amount": 9499,
+        "variants": {
+          "256GB": 9499,
+          "512GB": 11099,
+          "1TB": 14299,
+          "2TB": 18299
+        },
+        "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
@@ -2389,7 +2381,19 @@
           "2TB": 3949
         },
         "url": "https://www.apple.com/au/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "SG": {
+        "amount": 1799,
+        "variants": {
+          "256GB": 1799,
+          "512GB": 2099,
+          "1TB": 2699,
+          "2TB": 3449
+        },
+        "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -2403,7 +2407,7 @@
           "2TB": 2599
         },
         "url": "https://www.apple.com/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -2415,7 +2419,7 @@
           "2TB": 3629
         },
         "url": "https://www.apple.com/ca/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
@@ -2427,7 +2431,7 @@
           "2TB": 2599
         },
         "url": "https://www.apple.com/uk/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
@@ -2439,7 +2443,7 @@
           "2TB": 2999
         },
         "url": "https://www.apple.com/de/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
@@ -2451,7 +2455,7 @@
           "2TB": 331900
         },
         "url": "https://www.apple.com/in/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
@@ -2463,19 +2467,7 @@
           "2TB": 10699
         },
         "url": "https://www.apple.com/ae/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "SG": {
-        "amount": 2299,
-        "variants": {
-          "256GB": 2299,
-          "512GB": 2599,
-          "1TB": 3199,
-          "2TB": 3949
-        },
-        "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
@@ -2487,7 +2479,7 @@
           "2TB": 464800
         },
         "url": "https://www.apple.com/jp/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "KR": {
@@ -2499,7 +2491,7 @@
           "2TB": 4399000
         },
         "url": "https://www.apple.com/kr/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CN": {
@@ -2511,7 +2503,7 @@
           "2TB": 22599
         },
         "url": "https://www.apple.com.cn/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "HK": {
@@ -2523,7 +2515,7 @@
           "2TB": 20799
         },
         "url": "https://www.apple.com/hk/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
@@ -2535,7 +2527,19 @@
           "2TB": 4549
         },
         "url": "https://www.apple.com/au/shop/buy-ipad/ipad-pro",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "SG": {
+        "amount": 2299,
+        "variants": {
+          "256GB": 2299,
+          "512GB": 2599,
+          "1TB": 3199,
+          "2TB": 3949
+        },
+        "url": "https://www.apple.com/sg/shop/buy-ipad/ipad-pro",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -2543,141 +2547,141 @@
       "US": {
         "amount": 1399.99,
         "url": "https://www.samsung.com/us/tablets/galaxy-tab-s12/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
         "amount": 1649.99,
         "url": "https://www.samsung.com/ca/tablets/galaxy-tab-s12/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "IN": {
-        "amount": 129999,
-        "url": "https://www.samsung.com/in/tablets/galaxy-tab-s12/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
         "amount": 1199,
         "url": "https://www.samsung.com/uk/tablets/galaxy-tab-s12/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
         "amount": 4629,
         "url": "https://www.samsung.com/ae/tablets/galaxy-tab-s12/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
         "amount": 1299,
         "url": "https://www.samsung.com/de/tablets/galaxy-tab-s12/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
         "amount": 227480,
         "url": "https://www.samsung.com/jp/tablets/galaxy-tab-s12/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
         "amount": 1698,
         "url": "https://www.samsung.com/sg/tablets/galaxy-tab-s12/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "CN": {
-        "amount": 8899,
-        "url": "https://www.samsung.com.cn/tablets/galaxy-tab-s12/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "HK": {
-        "amount": 9488,
-        "url": "https://www.samsung.com/hk_en/tablets/galaxy-tab-s12/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "KR": {
         "amount": 1549900,
         "url": "https://www.samsung.com/sec/tablets/galaxy-tab-s12/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "IN": {
+        "amount": 129999,
+        "url": "https://www.samsung.com/in/tablets/galaxy-tab-s12/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "HK": {
+        "amount": 9488,
+        "url": "https://www.samsung.com/hk_en/tablets/galaxy-tab-s12/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
         "amount": 2249,
         "url": "https://www.samsung.com/au/tablets/galaxy-tab-s12/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "CN": {
+        "amount": 8899,
+        "url": "https://www.samsung.com.cn/tablets/galaxy-tab-s12/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
     "airpods-pro-3": {
-      "UK": {
-        "amount": 219,
-        "url": "https://www.apple.com/uk/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+      "US": {
+        "amount": 249,
+        "url": "https://www.apple.com/shop/accessories/all/headphones-speakers",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
         "amount": 329,
         "url": "https://www.apple.com/ca/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
-      "AE": {
-        "amount": 949,
-        "url": "https://www.apple.com/ae/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "US": {
-        "amount": 249,
-        "url": "https://www.apple.com/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+      "UK": {
+        "amount": 219,
+        "url": "https://www.apple.com/uk/shop/accessories/all/headphones-speakers",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
         "amount": 249,
         "url": "https://www.apple.com/de/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "KR": {
-        "amount": 369000,
-        "url": "https://www.apple.com/kr/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "SG": {
-        "amount": 349,
-        "url": "https://www.apple.com/sg/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
         "amount": 27900,
         "url": "https://www.apple.com/in/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "SG": {
+        "amount": 349,
+        "url": "https://www.apple.com/sg/shop/accessories/all/headphones-speakers",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
         "amount": 42800,
         "url": "https://www.apple.com/jp/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "HK": {
         "amount": 1849,
         "url": "https://www.apple.com/hk/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
         "amount": 429,
         "url": "https://www.apple.com/au/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "AE": {
+        "amount": 949,
+        "url": "https://www.apple.com/ae/shop/accessories/all/headphones-speakers",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "KR": {
+        "amount": 369000,
+        "url": "https://www.apple.com/kr/shop/accessories/all/headphones-speakers",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CN": {
@@ -2690,67 +2694,67 @@
       "US": {
         "amount": 129,
         "url": "https://www.apple.com/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
         "amount": 179,
         "url": "https://www.apple.com/ca/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
         "amount": 119,
         "url": "https://www.apple.com/uk/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
         "amount": 149,
         "url": "https://www.apple.com/de/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
         "amount": 14900,
         "url": "https://www.apple.com/in/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
         "amount": 549,
         "url": "https://www.apple.com/ae/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "SG": {
-        "amount": 199,
-        "url": "https://www.apple.com/sg/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
         "amount": 23800,
         "url": "https://www.apple.com/jp/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "SG": {
+        "amount": 199,
+        "url": "https://www.apple.com/sg/shop/accessories/all/headphones-speakers",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "KR": {
         "amount": 199000,
         "url": "https://www.apple.com/kr/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "HK": {
         "amount": 1099,
         "url": "https://www.apple.com/hk/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
         "amount": 219,
         "url": "https://www.apple.com/au/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -2758,67 +2762,67 @@
       "US": {
         "amount": 549,
         "url": "https://www.apple.com/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
         "amount": 799,
         "url": "https://www.apple.com/ca/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "DE": {
-        "amount": 579,
-        "url": "https://www.apple.com/de/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
         "amount": 499,
         "url": "https://www.apple.com/uk/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "DE": {
+        "amount": 579,
+        "url": "https://www.apple.com/de/shop/accessories/all/headphones-speakers",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
         "amount": 74900,
         "url": "https://www.apple.com/in/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
         "amount": 2099,
         "url": "https://www.apple.com/ae/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "JP": {
-        "amount": 89800,
-        "url": "https://www.apple.com/jp/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "KR": {
-        "amount": 849000,
-        "url": "https://www.apple.com/kr/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
         "amount": 749,
         "url": "https://www.apple.com/sg/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "JP": {
+        "amount": 89800,
+        "url": "https://www.apple.com/jp/shop/accessories/all/headphones-speakers",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "KR": {
+        "amount": 849000,
+        "url": "https://www.apple.com/kr/shop/accessories/all/headphones-speakers",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "HK": {
         "amount": 4599,
         "url": "https://www.apple.com/hk/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
         "amount": 999,
         "url": "https://www.apple.com/au/shop/accessories/all/headphones-speakers",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
@@ -2826,7 +2830,7 @@
       "US": {
         "amount": 249.99,
         "url": "https://www.samsung.com/us/audio-sound/galaxy-buds4-pro/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CA": {
@@ -2838,19 +2842,19 @@
       "UK": {
         "amount": 169,
         "url": "https://www.samsung.com/uk/audio-sound/galaxy-buds4-pro/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
         "amount": 249,
         "url": "https://www.samsung.com/de/audio-sound/galaxy-buds4-pro/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
         "amount": 22999,
         "url": "https://www.samsung.com/in/audio-sound/galaxy-buds4-pro/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AE": {
@@ -2862,25 +2866,19 @@
       "SG": {
         "amount": 349,
         "url": "https://www.samsung.com/sg/audio-sound/galaxy-buds4-pro/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
         "amount": 41250,
         "url": "https://www.samsung.com/jp/audio-sound/galaxy-buds4-pro/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "CN": {
         "amount": 1399,
         "url": "https://www.samsung.com.cn/audio-sound/galaxy-buds4-pro/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
-      "HK": {
-        "amount": 1998,
-        "url": "https://www.samsung.com/hk_en/audio-sound/galaxy-buds4-pro/buy/",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
@@ -2888,55 +2886,61 @@
         "url": "https://www.samsung.com/au/audio-sound/galaxy-buds4-pro/buy/",
         "checkedAt": "2026-11-19T04:19:56.296Z",
         "status": "stale"
+      },
+      "HK": {
+        "amount": 1998,
+        "url": "https://www.samsung.com/hk_en/audio-sound/galaxy-buds4-pro/buy/",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
       }
     },
     "pixel-buds-pro-2": {
-      "CA": {
-        "amount": 299,
-        "url": "https://store.google.com/ca/product/pixel_buds_pro_2",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
-        "status": "ok"
-      },
       "US": {
         "amount": 229,
         "url": "https://store.google.com/us/product/pixel_buds_pro_2",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
+        "status": "ok"
+      },
+      "CA": {
+        "amount": 299,
+        "url": "https://store.google.com/ca/product/pixel_buds_pro_2",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "UK": {
         "amount": 149,
         "url": "https://store.google.com/gb/product/pixel_buds_pro_2",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "DE": {
         "amount": 169,
         "url": "https://store.google.com/de/product/pixel_buds_pro_2",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "IN": {
         "amount": 22900,
         "url": "https://store.google.com/in/product/pixel_buds_pro_2",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "SG": {
         "amount": 309,
         "url": "https://store.google.com/sg/product/pixel_buds_pro_2",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "AU": {
         "amount": 279,
         "url": "https://store.google.com/au/product/pixel_buds_pro_2",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       },
       "JP": {
         "amount": 36800,
         "url": "https://store.google.com/jp/product/pixel_buds_pro_2",
-        "checkedAt": "2026-11-25T04:28:44.109Z",
+        "checkedAt": "2026-11-26T04:24:28.204Z",
         "status": "ok"
       }
     },
